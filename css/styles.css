@@ -1,0 +1,22 @@
+/* line 1, ../../../../../Users/bart/Desktop/gulp/scss/imports/_imports.scss */
+.foo {
+  text-align: center;
+  font-weight: bold; }
+
+/* line 3, 196f6525-d003-4ddb-9df1-502fed434f72.scss */
+html, body {
+  height: 100%;
+  font-family: "museo-sans", Helvetica, Arial, sans-serif; }
+
+/* line 8, 196f6525-d003-4ddb-9df1-502fed434f72.scss */
+h1, h2, h3, h4, h5 {
+  text-rendering: optimizelegibility; }
+
+/* line 12, 196f6525-d003-4ddb-9df1-502fed434f72.scss */
+a, .bold {
+  font-weight: bold; }
+
+/* line 16, 196f6525-d003-4ddb-9df1-502fed434f72.scss */
+a {
+  color: #48380c;
+  transition: background-color .3s ease, border .3s ease, color .3s ease, opacity .3s ease-in-out, outline .3s ease; }
